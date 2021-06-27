@@ -2,9 +2,9 @@
   "name": "Samael_bot",
   "version": "0.0.0",
   "description": "",
-  "main": "bot_xd.js",
+  "main": "David_bot.js",
   "scripts": {
-  "start": "bot_xd.js"
+  "start": "David_bot.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
